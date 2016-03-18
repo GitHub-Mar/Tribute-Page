@@ -1,11 +1,31 @@
 .container {
   margin: auto;
-  background-color: #eee;
+  background-color: #25132D;
   border-radius: 10px;
   margin-top: 50px;
   margin-bottom: 50px;
 }
-
+.thumbnail {
+  background-color: #25132D;
+  border: 2px solid #25132D;
+}
+li {
+  margin-top: 5px;
+  font-size: 15px;
+}
+.body-text {
+  color: #DAECD2;
+  padding: 2px;
+}
+i {
+  color: #DAECD2;
+}
+b {
+  color:  #DAECD2;
+}
+.footer-span {
+  display: inline-block;
+}
 p {
   text-align: center;
   margin: auto;
@@ -16,15 +36,21 @@ p {
 .top-page {
   text-align: center;
 }
-* {
-  font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+.fa-reddit {
+  color: #ff5700;
+  background: white;
 }
-
-.img-text {
-  
-  background-color: white;
-  padding-top: 1px;
-  padding-left: 1px;
-  border-radius: 1px;
-  margin-left: 1p
+.fa-github {
+  color: black;
+  background: white;
+}
+.fa-linkedin {
+  color: white;
+}
+.bio-list {
+  text-align: justify;
+}
+* {
+  font-family: Knockout, Helvetica, sans-serif;
+  color: #DAECD2;
 }
