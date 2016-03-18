@@ -1,0 +1,30 @@
+.container {
+  margin: auto;
+  background-color: #eee;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+p {
+  text-align: center;
+  margin: auto;
+  font-style: italic;
+  font-size: 18px;
+  margin-top: 20px;
+}
+.top-page {
+  text-align: center;
+}
+* {
+  font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.img-text {
+  
+  background-color: white;
+  padding-top: 1px;
+  padding-left: 1px;
+  border-radius: 1px;
+  margin-left: 1p
+}
