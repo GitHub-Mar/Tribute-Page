@@ -50,6 +50,9 @@ p {
 .bio-list {
   text-align: justify;
 }
+#quote {
+  padding: 10px;
+}
 * {
   font-family: Knockout, Helvetica, sans-serif;
   color: #DAECD2;
